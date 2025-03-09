@@ -26,3 +26,8 @@ multiple data centers.
 The API is hosted on rapidapi for ease of use.
 https://rapidapi.com/malikanshul29/api/distributed-counter
 
+## Contributing
+We discuss and plan on [Discord](https://discord.gg/hQnh62hmQt)
+
+
+
